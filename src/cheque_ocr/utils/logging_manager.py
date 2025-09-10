@@ -1,4 +1,4 @@
-"""Logging configuration and management for cheque OCR system."""
+git commit -m "Initial commit: Set up project structure and basic OCR functionality""""Logging configuration and management for cheque OCR system."""
 
 import logging
 import logging.config
